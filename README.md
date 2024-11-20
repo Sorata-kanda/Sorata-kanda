@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - email me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: doing coding can fall your hairs
+- ⚡ Fun fact: doing coding tends to hairfall
 
 <!---
 Sorata-kanda/Sorata-kanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
